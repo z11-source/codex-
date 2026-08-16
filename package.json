@@ -1,0 +1,21 @@
+{
+  "name": "codex-prompt-card",
+  "version": "0.1.0",
+  "description": "A tiny CLI that prints reusable prompt cards for Codex tasks.",
+  "type": "module",
+  "bin": {
+    "codex-prompt-card": "./bin/codex-prompt-card.mjs"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "codex",
+    "prompt",
+    "cli"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
